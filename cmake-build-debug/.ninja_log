@@ -1,0 +1,27 @@
+# ninja log v6
+1	318	1738705698492050652	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+319	361	1738705698809931797	binaryTreeImplementation	2c6ce7ebbb8daa3b
+2	332	1738707438325641414	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+332	371	1738707438655628892	binaryTreeImplementation	2c6ce7ebbb8daa3b
+2	366	1738707488985633158	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+366	407	1738707489349618137	binaryTreeImplementation	2c6ce7ebbb8daa3b
+2	352	1738707499412199986	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+352	391	1738707499762185339	binaryTreeImplementation	2c6ce7ebbb8daa3b
+1	371	1738707523239187381	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+371	429	1738707523609171418	binaryTreeImplementation	2c6ce7ebbb8daa3b
+1	387	1738707559503590808	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+387	449	1738707559889573486	binaryTreeImplementation	2c6ce7ebbb8daa3b
+3	461	1738774458829706357	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+462	506	1738774459288698179	binaryTreeImplementation	2c6ce7ebbb8daa3b
+2	528	1738774467554550644	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+529	614	1738774468081541222	binaryTreeImplementation	2c6ce7ebbb8daa3b
+3	581	1738774652121156320	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+581	667	1738774652699145456	binaryTreeImplementation	2c6ce7ebbb8daa3b
+2	574	1738774903591350979	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+574	664	1738774904163339919	binaryTreeImplementation	2c6ce7ebbb8daa3b
+3	553	1738775316878292190	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+554	626	1738775317429281394	binaryTreeImplementation	2c6ce7ebbb8daa3b
+3	551	1738775534119030733	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+551	632	1738775534667019975	binaryTreeImplementation	2c6ce7ebbb8daa3b
+2	567	1738775561184499343	CMakeFiles/binaryTreeImplementation.dir/main.cpp.o	75c3af159a5b5d4
+567	648	1738775561749488250	binaryTreeImplementation	2c6ce7ebbb8daa3b
